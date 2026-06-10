@@ -1,0 +1,24 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-H-Silva/cypress-Igor-H-Silva-compass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Igor-H-Silva/cypress-Igor-H-Silva-compass/issues"
+  },
+  "homepage": "https://github.com/Igor-H-Silva/cypress-Igor-H-Silva-compass#readme",
+  "devDependencies": {
+    "cypress": "^15.17.0"
+  }
+}
